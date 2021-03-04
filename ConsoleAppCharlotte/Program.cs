@@ -2,7 +2,7 @@
 
 namespace ConsoleAppCharlotte
 {
-    class Program
+    public class Program
     {
         int id = 0;
         //private int id = 0;
